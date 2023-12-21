@@ -1,5 +1,2 @@
 
-  Hi, I'm Abel Juncal, a 20 years old guy interesed in computer science and specially in AI. I'm currently at fourth year of the computer science at Universidade da Coruña, but i
-  always attemp to learn new skills far from university. Since my childhood, i've been messing around computers in my house, repairing then when it was necesary and using them to 
-  learn a lot of things about hardware and software. At this moment, I'm focused on finishing my degree and grow as a source of knowledge about 
-  computing.
+Hi, I'm Abel Juncal, and I'm interested in computer science, particularly in AI. I'm currently studying the Master in Artificial Intelligence at Universidade da Coruña, but I'm always striving to learn new skills beyond the university curriculum. Since my childhood, I've been tinkering with computers at home, repairing them when necessary, and using them to learn new things. Right now, my main focus is on completing my master degree and expanding my knowledge base in computing.
